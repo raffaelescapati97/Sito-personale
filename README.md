@@ -1,2 +1,2 @@
-# Progetto HTML e CSS di Raffaele Scaapati
+# Progetto HTML e CSS di Raffaele Scapati
 Questo è il mio sito personale
