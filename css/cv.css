@@ -2,3 +2,28 @@ h2 {margin-top: 80px;
     margin-bottom: 10px;
     text-align: center;
 }
+
+    div {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    h3 {
+        text-align: center;
+        margin: 0;
+    }
+
+    @media (min-width: 768px){
+        div {
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+            gap: 30px;
+        }
+
+        div p{
+            width: 100%;
+        }
+
+    }
