@@ -19,6 +19,10 @@ p {
     border-radius: 10px;
 }
 
+p, form {
+    background-color: #f1f1f1;
+}
+
 .bordo-arancio {
     border: orange 2px solid;
     border-radius: 10px;
